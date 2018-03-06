@@ -13,6 +13,7 @@ namespace Generic1
     }
     internal class Program
     {
+        // test
         static int P() { return 12334;}
         int P2() { return 12334; }
         private static Func<object, object> R(Type t)
