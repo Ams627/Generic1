@@ -9,6 +9,7 @@ namespace Generic1
 {
     class X
     {
+        // new class
         
     }
     internal class Program
